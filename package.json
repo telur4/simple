@@ -1,0 +1,19 @@
+{
+  "name": "complex-web-development-environment",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chokidar": "^3.5.3",
+    "fs-extra": "^10.0.0",
+    "htmlhint": "^1.1.2",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
