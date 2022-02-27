@@ -36,16 +36,9 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ```
 
-4. Install Docker Desktop
-
-please refer [here](https://www.docker.com/products/docker-desktop "Docker Desktop for Mac and Windows")
-
 ## Start
 
 ```shell
 npm start
-docker-compose up -d
-# Windows PowerShell
-start "http://localhost:8080"
 ```
 
